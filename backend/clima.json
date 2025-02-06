@@ -1,0 +1,83 @@
+[
+    {
+      "city": "São Paulo",
+      "month": "Janeiro",
+      "avg_temp_max": 29.0,
+      "avg_temp_min": 20.0,
+      "precipitation_mm": 156.5,
+      "humidity_percent": 80
+    },
+    {
+      "city": "Rio de Janeiro",
+      "month": "Janeiro",
+      "avg_temp_max": 30.5,
+      "avg_temp_min": 22.0,
+      "precipitation_mm": 130.0,
+      "humidity_percent": 75
+    },
+    {
+      "city": "Curitiba",
+      "month": "Janeiro",
+      "avg_temp_max": 25.0,
+      "avg_temp_min": 16.5,
+      "precipitation_mm": 110.3,
+      "humidity_percent": 85
+    },
+    {
+      "city": "Fortaleza",
+      "month": "Janeiro",
+      "avg_temp_max": 32.0,
+      "avg_temp_min": 25.0,
+      "precipitation_mm": 45.0,
+      "humidity_percent": 70
+    },
+    {
+      "city": "Belo Horizonte",
+      "month": "Janeiro",
+      "avg_temp_max": 28.5,
+      "avg_temp_min": 19.5,
+      "precipitation_mm": 120.0,
+      "humidity_percent": 78
+    },
+    {
+      "city": "Porto Alegre",
+      "month": "Janeiro",
+      "avg_temp_max": 27.0,
+      "avg_temp_min": 18.5,
+      "precipitation_mm": 90.5,
+      "humidity_percent": 82
+    },
+    {
+      "city": "Salvador",
+      "month": "Janeiro",
+      "avg_temp_max": 31.0,
+      "avg_temp_min": 24.0,
+      "precipitation_mm": 120.0,
+      "humidity_percent": 79
+    },
+    {
+      "city": "Manaus",
+      "month": "Janeiro",
+      "avg_temp_max": 31.5,
+      "avg_temp_min": 24.5,
+      "precipitation_mm": 330.5,
+      "humidity_percent": 88
+    },
+    {
+      "city": "Recife",
+      "month": "Janeiro",
+      "avg_temp_max": 30.0,
+      "avg_temp_min": 23.0,
+      "precipitation_mm": 210.0,
+      "humidity_percent": 80
+    },
+    {
+      "city": "Maceió",
+      "month": "Janeiro",
+      "avg_temp_max": 31.5,
+      "avg_temp_min": 24.5,
+      "precipitation_mm": 130.0,
+      "humidity_percent": 77
+    }
+  ]
+  
